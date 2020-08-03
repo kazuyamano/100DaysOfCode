@@ -1,4 +1,4 @@
-# 100days
+# 100DaysOfCode
 
 Python自習活動のログを管理
 - TwitterAnayticsのログ
