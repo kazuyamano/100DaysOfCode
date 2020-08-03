@@ -1,5 +1,5 @@
 # 100days
 
 Python自習活動のログを管理
-・TwitterAnayticsのログ
-・学習日数、時間のハンド集計
+- TwitterAnayticsのログ
+- 学習日数、時間のハンド集計
